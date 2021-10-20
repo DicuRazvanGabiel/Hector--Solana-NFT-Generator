@@ -8,3 +8,4 @@ Here is how to use it:
 2. Open the folder containing the repo
 3. Open terminal --> yarn install
 4. In terminal -->nodeindex.js
+For more info on Solana NFT creation go here: https://hackmd.io/iPLxfN4TSbOIqEJhP4dZzA?view
