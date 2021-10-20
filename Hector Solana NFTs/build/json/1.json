@@ -1,0 +1,58 @@
+{
+  "namess": "My NFT",
+  "symbol": "SYM",
+  "description": "Your description",
+  "image": "image.png",
+  "seller_fee_basis_points": "250",
+  "animation_url": "your url",
+  "external_url": "your url",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "collection": {
+    "name": "Mi Colección",
+    "family": "Mi Familia"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Your sol address",
+        "share": 100
+      }
+    ]
+  }
+}
